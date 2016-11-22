@@ -1,0 +1,263 @@
+@media (max-width: 768px) {
+
+	.portada {
+		height: 80vh;
+	}
+
+	.title-portada {
+		font-size: 3em;
+	}
+
+	.study {
+		font-size: 1.8em;
+	}
+
+	.pd-top {
+    	margin-top: 5.5em;
+	}
+
+	.h-foto {
+		padding-top: 4.5em;
+	}
+	
+	.h-des {
+		height: 50vh;
+	}
+
+	.mg-b {
+		margin-bottom: 1.3em;
+	}
+
+	.skills {
+		height: 141vh;
+		padding: 3.5em 5em;
+	}
+
+	#dot-nav {
+		right: 2px;
+	}
+
+	#dot-nav li {
+		padding: 2px;
+	}
+
+	.h-des {
+		padding-top: 0;
+	}
+
+	.mg-br {
+		margin-bottom: 0;
+	}
+
+	.barra {
+		height: 45px;
+	}
+
+	.porcentaje {
+		height: 45px;
+		padding-top: 0.7em;
+	}
+
+	.titulo {
+		font-size: 2em;
+	}
+
+	.texto {
+		font-size: 1.4em;
+	}
+
+	.pd-b {
+		padding-bottom: 1.2em;
+	}
+
+	.frase {
+		height: 50vh;
+	}
+
+	.frase-text {
+		font-size: 0.7em;
+	}
+
+	.autor {
+		font-size: 0.6em;
+	}
+
+	.pd-top-f {
+		padding-top: 7.9em; 
+		padding-left: 0em;
+	}
+
+	.border-fot {
+		width: 50%;
+		margin-bottom: 0.6em;
+	}
+
+	.icon-footer {
+		width: 25px;
+	}
+
+	.text-footer {
+		font-size: 0.9em;
+		padding-top: 0;
+	}
+
+	.u-foot {
+		padding-left: 3em;
+	}
+
+	.footer {
+		height: 38vh;
+	}
+
+	.tamanio {
+		font-size: 0.7em;
+	}
+
+	.tamanio-est {
+		font-size: 0.5em;
+	}
+
+	.nombre {
+		padding-top: 0.7em;
+		padding-right: 3.8em;
+	}
+
+	.mail {
+		font-size: 4.5em;
+		padding-right: 0.8em;
+	}
+
+	.contact-me {
+		padding-top: 4em;
+	}
+
+	.contacto {
+		height: 70vh;
+	}
+
+	.laptop {
+		width: 12%;
+	}
+
+	.heart {
+		width: 14%;
+	}
+
+	.descrip {
+		font-size: 1.2em;
+	}
+
+	.about-me {
+		height: 150vh;
+	}
+
+	.pines {
+		width: 26%;
+	}
+
+	.laptop {
+		width: 16%;
+	}
+
+	.heart {
+		width: 22%;
+	}
+
+	.trabajos {
+    	width: 65%;
+    	height: 160px;
+	}
+
+	.mg-bi {
+		margin-bottom: 0.8em;
+	}
+
+	.pd-pag {
+    	padding-top: 0;
+    	padding-bottom: 0;
+	}
+
+	.projects {
+		height: 190vh;
+	}
+
+	.links {
+		font-size: 0.8em;
+	}
+
+	.jqu {
+		margin-bottom: 0.8em;
+	}
+
+	.boton {
+		margin-top: 1em;
+	}
+
+	.texto-contacto {
+		margin-top: 1em;
+		font-size: 1.8em;
+		text-align: right;
+		padding-right: 1.8em;
+	}
+
+	.icon-mail {
+		width: 14%;
+	}
+
+	.trofeo {
+		width: 20%;
+	}
+
+	.sobre {
+		height: 160vh;
+	}
+
+	.tools {
+		font-size: 0.8em;
+	}
+
+	.tool {
+		font-size: 0.8em;
+	}
+
+	.pd-top-s {
+		padding-top: 5.9em; 
+	}
+
+	.contacto-es {
+		padding-top: 7em;
+	}
+
+	.mg-l {
+		margin-left: 0.5em;
+	}
+
+	.opacidad {
+		padding-left: 2.5em;
+	}
+
+	.enlace-lk {
+		width: 33px;
+	}
+
+	.enlace-gh {
+		width: 43px;
+	}
+
+	.image {
+		width: 200px;
+		height: 200px;
+	}
+
+	.mg-t {
+		margin-top: 2em;
+	}
+
+	.mockup {
+		width: 45%;
+	}
+}
+
+@media (max-width: 991px) {
+	
+}
