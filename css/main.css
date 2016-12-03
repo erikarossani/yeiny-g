@@ -6,10 +6,11 @@
 
 h1,h2,h3,h4,h5,h6{
     font-weight: bolder;
+    font-family: "Raleway", sans-serif;
 }
 
 body {
-  font-family:"Bad+Script", "Alice","Proza+Libre", sans-serif;
+  font-family: "Sanchez", sans-serif;
   line-height: 1.8;
   font-size: 18px;
   font-weight: 300;
@@ -20,7 +21,7 @@ body {
 /*portada*/
 
 .portada {
-  background-image: url(../img/7.jpg);
+  background-image: url(../img/9.jpg);
   background-size: cover;
   height: 100vh;
   width: 100vw;
@@ -62,10 +63,10 @@ body {
 #typewriter{
   position: absolute;
   z-index: 1;
-  font-size:4vw;
+  font-size:3.5vw;
   font-weight: bolder;
   color: #fff;
-  font-family: "Abhaya+Libre";
+  font-family: "Orbitron";
   text-transform: uppercase;
   pointer-events: none;
   line-height: 1;
@@ -77,16 +78,16 @@ body {
   -ms-flex-align: center;
   align-items: center;
   justify-content: center;
-  margin: 0;
+  margin-top: 20px;
 }
 
 .front , .cualidades{
-  top:80px;
+  top:70px;
   left: 0;
   position: absolute;
   font-size:2vw;
   color:#FFF;
-  font-family: "Abhaya+Libre";
+  font-family: "Orbitron";
   text-transform: uppercase;
   pointer-events: none;
   line-height: 1;
@@ -102,7 +103,7 @@ body {
   margin: 0;
 }
 .cualidades{
-  top:120px;
+  top:100px;
   font-size:1.5vw;
 }
 
