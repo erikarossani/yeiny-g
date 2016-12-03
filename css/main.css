@@ -42,8 +42,6 @@ body {
   height: 27%;
   background:rgb(0,1,40);
   top: 30px;
-  border-bottom: solid 2px #FFF;
-  border-top: solid 2px #FFF;
   margin: 0 0 2em 0;
   padding: 10px  0;
   text-align: center;
@@ -79,8 +77,6 @@ body {
   align-items: center;
   justify-content: center;
   margin: 0;
-  border-bottom: solid 2px;
-  border-top: solid 2px;
 }
 
 .front , .cualidades{
@@ -193,7 +189,7 @@ body {
 }
 
 .tittle{
-    color: rgb(23, 24, 32);
+    color: #fff;
 }
 
 
@@ -205,22 +201,19 @@ body {
     margin-top: 1.8em;
 }
 
-.proyecto{
-  margin-bottom: 2%;
-  color: #e44c65;
+.proyectos{
+  margin-top: -75px;
 }
 
-.lyft{
-    width: 100%;
-    height: 400px;
-    margin-top: 2%;
+.proyecto{
+  color:#0526cb;
 }
+
 
 .presentacion{
     width: 100%;
-    height: 300px;
+    height: 200px;
 }
-
 
 
 /*slider*/
