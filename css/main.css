@@ -277,9 +277,14 @@ body {
 
 
 .mg-b {
-    margin-bottom: 1.5em;
     color: rgb(23, 24, 32);
 }
+
+.mg-b1 {
+    color: rgb(23, 24, 32);
+    margin-bottom: 1.5em;
+}
+
 .mg-l{
   color: rgb(23, 24, 32);
   margin-top: 2%;
