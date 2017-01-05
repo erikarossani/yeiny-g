@@ -6,11 +6,10 @@
 
 h1,h2,h3,h4,h5,h6{
     font-weight: bolder;
-    font-family: "Raleway", sans-serif;
 }
 
 body {
-  font-family: "Sanchez", sans-serif;
+  font-family: "Raleway", sans-serif;
   background: #000;
   line-height: 1.8;
   font-size: 18px;
@@ -18,13 +17,11 @@ body {
   overflow-x: hidden;
 }
 
-
 /*portada*/
 
 .portada {
   background-image: url(../img/9.jpg);
   background-size: cover;
-  height: 100vh;
   width: 100vw;
   background-attachment: fixed;
   background-repeat: no-repeat;
